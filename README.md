@@ -1,1 +1,3 @@
-# resume2
+---
+permalink: /index.html
+---
